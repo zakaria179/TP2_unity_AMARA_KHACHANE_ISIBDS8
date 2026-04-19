@@ -1,35 +1,35 @@
-# TP2 Unity - AR Rocket Project
+# TP2 Unity - Projet Fusée AR
 
-Unity project focused on AR visualization and interaction around a space rocket scene, including a simple AI simulation UI flow.
+Projet Unity centré sur la visualisation en réalité augmentée (AR) et l'interaction autour d'une scène de fusée spatiale, avec un flux simple de simulation IA dans l'interface.
 
-## Project Overview
+## Présentation Du Projet
 
-- Engine: Unity 6000.4.2f1
-- Main tech: C#, AR/XR, Vuforia package integration
-- Input: Unity Input System
-- Rendering: Universal Render Pipeline (URP)
+- Moteur : Unity 6000.4.2f1
+- Technologies principales : C#, AR/XR, intégration du package Vuforia
+- Entrées : Unity Input System
+- Rendu : Universal Render Pipeline (URP)
 
-A sample script (`Assets/SystemeIA.cs`) demonstrates a staged analysis flow and displays rocket mission information in the UI.
+Le script exemple Assets/SystemeIA.cs montre un flux d'analyse en plusieurs étapes et affiche des informations de mission dans l'interface utilisateur.
 
-## Open the Project
+## Ouvrir Le Projet
 
-1. Open Unity Hub.
-2. Add this folder as an existing project.
-3. Use Unity version `6000.4.2f1` (or compatible).
-4. Open a scene from `Assets/Scenes`.
-5. Press Play.
+1. Ouvrez Unity Hub.
+2. Ajoutez ce dossier comme projet existant.
+3. Utilisez la version Unity 6000.4.2f1 (ou une version compatible).
+4. Ouvrez une scène depuis Assets/Scenes.
+5. Lancez le mode Play.
 
-## Repository Structure
+## Structure Du Dépôt
 
-- `Assets/` game content, scripts, scenes, settings assets
-- `Packages/` Unity package dependencies
-- `ProjectSettings/` Unity project configuration
+- Assets/ : contenu du jeu, scripts, scènes et ressources de configuration
+- Packages/ : dépendances des packages Unity
+- ProjectSettings/ : configuration du projet Unity
 
-## Realisateurs
+## Réalisateurs
 
-- Zakaria Khachane
-- Amara Yassine
+- Zakaria KHACHANE
+- Yassine AMARA
 
 ## Notes
 
-This repository excludes generated Unity folders (`Library`, `Temp`, `Logs`, etc.) through `.gitignore` to keep version control clean and lightweight.
+Ce dépôt exclut les dossiers Unity générés automatiquement (Library, Temp, Logs, etc.) via le fichier .gitignore afin de garder un versionnement propre et léger.
